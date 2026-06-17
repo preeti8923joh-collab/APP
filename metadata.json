@@ -1,0 +1,6 @@
+{
+  "name": "App Launcher Hub",
+  "description": "A highly responsive, beautiful glassmorphism dashboard hub to manage and launch all your web applications with active usage analytics and admin integrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
